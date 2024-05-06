@@ -15,7 +15,7 @@ date: 2024-05-06
 last_modified_at: 2024-05-06
 ---
 
-![skinnerbox](/assets/img/post/skinnerbox.webp)
+![image](https://github.com/choeehb/choeehb.github.io/assets/17942921/38a76cad-6869-4763-9aab-e65a5e99f74d)
 
 
 
