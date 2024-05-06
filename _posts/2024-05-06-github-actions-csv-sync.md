@@ -14,6 +14,8 @@ date: 2024-05-06
 last_modified_at: 2024-05-06
 ---
 
+
+
 # [GitHub Actions + Google Sheet] 깃헙의 CSV 파일이 변경되었을 때, 구글 스프레드 시트로 싱크 자동화
 
 CSV는 개발자가 읽고 쓰기는 편하지만, 기획자가 함수나 Visualization을 하기 어렵습니다.  
@@ -22,15 +24,23 @@ CSV는 개발자가 읽고 쓰기는 편하지만, 기획자가 함수나 Visual
 
 하지만 GitHub으로 CSV 원본 파일을 저장하되, 구글 스프레드 시트로 자동으로 동기화하고 하고 ImportRange 함수로 가공해서 쓰면 두 이점을 모두 챙길 수 있습니다.
 
+
+
 그래서 GitHub Action으로 GitHub에 있는 CSV를 Google Sheet로 동기화하는 방법을 알려드립니다.
 
+
+
 ## 개발 도구
+
 - GitHub Actions
 - Google Sheet
 - AppsScript
 - Python3
 
+
+
 ## 결과물 예시
+
 최종 결과물은 이렇게 동작합니다.
 
 #### 1. CSV 파일을 추가해서 새로운 커밋을 올린다.
@@ -48,16 +58,38 @@ CSV는 개발자가 읽고 쓰기는 편하지만, 기획자가 함수나 Visual
 ## 구조
 ![image](https://github.com/choeehb/choeehb.github.io/assets/17942921/c5e7bd11-7386-48f0-bdb9-406299ddc493)
 
+
+
+#### 1. GitHub (push)
+
+#### 2. GitHub Actions (workflow)
+
+#### 3. Python
+
+#### 4. Google Sheet (Apps Script)
+
+
+
 전체적인 동작 방식은 이렇습니다.
+
 1. GitHub에 CSV 파일을 변경/추가하고 push한다.
+
 2. GitHub Actions가 push를 감지해서 Python 코드를 호출한다.
+
 3. Python 코드에서는 변경된 CSV 파일을 찾아서, Apps Script를 통해 Google Sheet로 전송한다.
+
+   
 
 ## 제작
 #### 1. Apps Script 코드를 만듭니다.
-![image](https://github.com/choeehb/choeehb.github.io/assets/17942921/8b7bef88-1a22-4ec0-a1db-f0cd1f7ed66f)
+<img src="https://github.com/choeehb/choeehb.github.io/assets/17942921/8b7bef88-1a22-4ec0-a1db-f0cd1f7ed66f" alt="image" />
+
+
+
 Apps Script는 웹앱처럼 사용할 수 있습니다.
 {csv 파일명: csv 파일 텍스트} 형태의 데이터를 페이로드로 넘겨받습니다.
+
+
 
 아래와 같이 스크립트를 입력하고 저장합니다.
 
@@ -160,6 +192,8 @@ if __name__ == '__main__':
     main()
 ```
 
+
+
 #### 3. GitHub Actions Workflow 만들기
 
 이제 GitHub Action으로 push가 발생할 때마다 위에서 만든 파이썬 코드를 호출합니다.
@@ -202,6 +236,8 @@ jobs:
       - name: Identify changed CSV files and update Google Sheets
         run: python update_sheets.py
 ```
+
+
 
 끝
 이제 커밋을 하면 저렇게 초록색 체크마크가 뜨면 성공한겁니다.
