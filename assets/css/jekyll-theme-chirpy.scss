@@ -2,5 +2,26 @@
 ---
 
 @import 'main';
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&display=swap');
 
-/* append your custom style below */
+/* 블로그 전체에 폰트 적용 */
+body {
+  font-family: 'IBM Plex Sans KR', sans-serif;
+}
+
+/* H1과 H2에 Bold 적용 */
+h1, h2 {
+  font-weight: bold;
+}
+
+img {
+  display: block !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+.post-content img {
+  display: block !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
