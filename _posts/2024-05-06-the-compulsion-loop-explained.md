@@ -190,8 +190,8 @@ PVE(플레이어 대 환경)가 있는 게임에서는 플레이어에게 '가�
 
 ## 출처 및 추가 참고자료
 
-- John Hopson의 Gamasutra를 통한 [행동 게임 디자인](http://www.gamasutra.com/view/feature/3085/behavioral_game_design.php?page=1)
-- [강박 고리: 매스미디어로서의 강박 행동](http://www.slideshare.net/adamcrowe/compulsion-loops#btnNext) - Adam Crowe 및 Richard Buchanon 작성
+- John Hopson의 Gamasutra를 통한 [행동 게임 디자인](https://www.gamedeveloper.com/design/behavioral-game-design)
+- [강박 고리: 매스미디어로서의 강박 행동](https://www.slideshare.net/adamcrowe/compulsion-loops#btnNext) - Adam Crowe 및 Richard Buchanon 작성
 - Stephanie Morgan의 [Gamification Sucks 비디오 프레젠테이션](https://vimeo.com/35394885)
 - [미드코어 성공 파트 1:](https://gameanalytics.com/mid-core-success-part-1-core-loops.html) Michail Katkoff의 코어 루프
 - Extra Credits의 [Skinner Box 비디오](https://www.youtube.com/watch?v=tWtvrPTbQ_c)
