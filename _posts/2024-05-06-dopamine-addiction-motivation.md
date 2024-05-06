@@ -14,7 +14,7 @@ date: 2024-05-06
 last_modified_at: 2024-05-06
 ---
 
-> 이 글은 https://www.healthline.com/health/dopamine-addiction의 글을 번역한 내용입니다.
+> 이 글은 [https://www.healthline.com/health/dopamine-addiction](https://www.healthline.com/health/dopamine-addiction)의 글을 번역한 내용입니다.
 
 ![image](https://github.com/choeehb/choeehb.github.io/assets/17942921/2373ba7a-5028-4abe-8990-b06aee00719a)
 
