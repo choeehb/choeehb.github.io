@@ -84,6 +84,9 @@ tail_includes:
 
   <div class="content">
     {{ content }}
+    {% if site.disqus.shortname %}
+      {% include disqus.html %}
+    {% endif %}
   </div>
 
   <div class="post-tail-wrapper text-muted">
