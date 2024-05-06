@@ -22,10 +22,6 @@ last_modified_at: 2024-05-06
 
 
 
-> 이 글은  [https://www.healthline.com/health/dopamine-effects](https://www.healthline.com/health/dopamine-effects)의 글을 번역한 내용입니다.
-
-
-
 도파민은 쾌락과 보상과 밀접한 관련이 있습니다. 물론 도파민은 그렇게 단순하지 않습니다. 사실 이 복잡한 화학물질에는 훨씬 더 많은 것이 있습니다.
 
 
@@ -35,6 +31,10 @@ last_modified_at: 2024-05-06
 
 
 도파민의 다양한 역할과 도파민 수치가 떨어졌을 때 나타나는 징후에 대해 알아보세요.
+
+
+
+> 이 글은  [https://www.healthline.com/health/dopamine-effects](https://www.healthline.com/health/dopamine-effects)의 글을 번역한 내용입니다.
 
 
 

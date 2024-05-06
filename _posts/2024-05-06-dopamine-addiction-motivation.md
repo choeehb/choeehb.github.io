@@ -28,10 +28,6 @@ last_modified_at: 2024-05-06
 
 
 
-> 이 글은 [https://www.healthline.com/health/dopamine-addiction](https://www.healthline.com/health/dopamine-addiction)의 글을 번역한 내용입니다.
-
-
-
 전문가들은 도파민이라는 신경전달물질이 중독의 맥락에서 어떻게 작용하는지 정확히 연구하고 있습니다. 많은 사람들은 도파민이 불쾌한 경험을 피하고 즐거운 경험을 찾도록 뇌를 훈련시킨다고 믿습니다.
 
 
@@ -41,6 +37,10 @@ last_modified_at: 2024-05-06
 
 
 중독에서 도파민의 역할을 둘러싼 오해와 사실에 대해 자세히 알아보려면 계속 읽어보세요.
+
+
+
+> 이 글은 [https://www.healthline.com/health/dopamine-addiction](https://www.healthline.com/health/dopamine-addiction)의 글을 번역한 내용입니다.
 
 
 

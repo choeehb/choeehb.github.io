@@ -24,10 +24,6 @@ last_modified_at: 2024-05-06
 
 
 
-> 이 글은 [https://www.healthline.com/health-news/what-is-dopamine-fasting](https://www.healthline.com/health-news/what-is-dopamine-fasting)의 글을 번역한 내용입니다.
-
-
-
 웰빙이라는 이름의 최신 단식은 단순히 좋아하는 음식을 포기하라는 것이 아닙니다. 대신 가장 즐거운 활동을 모두 자제하는 것이 목표입니다.
 
 
@@ -57,6 +53,10 @@ last_modified_at: 2024-05-06
 
 
 전문가와 함께 도파민의 과학적 원리와 '디톡스'이 뇌에 도움이 되는지 여부에 대해 이야기를 나눠보았습니다.
+
+
+
+> 이 글은 [https://www.healthline.com/health-news/what-is-dopamine-fasting](https://www.healthline.com/health-news/what-is-dopamine-fasting)의 글을 번역한 내용입니다.
 
 
 
