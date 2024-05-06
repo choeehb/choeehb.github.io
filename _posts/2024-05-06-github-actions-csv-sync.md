@@ -17,6 +17,9 @@ last_modified_at: 2024-05-06
 # [GitHub Actions + Google Sheet] 깃헙의 CSV 파일이 변경되었을 때, 구글 스프레드 시트로 싱크 자동화
 
 CSV는 개발자가 읽고 쓰기는 편하지만, 기획자가 함수나 Visualization을 하기 어렵습니다.  
+
+
+
 하지만 GitHub으로 CSV 원본 파일을 저장하되, 구글 스프레드 시트로 자동으로 동기화하고 하고 ImportRange 함수로 가공해서 쓰면 두 이점을 모두 챙길 수 있습니다.
 
 그래서 GitHub Action으로 GitHub에 있는 CSV를 Google Sheet로 동기화하는 방법을 알려드립니다.
