@@ -35,7 +35,7 @@ last_modified_at: 2024-05-06
 
 먼저, 강박 루프란 무엇인가?
 
-강박 루프에 대한 저의 정의는 [아담 크로우가](http://www.slideshare.net/adamcrowe/compulsion-loops#btnNext) 제시한 정의를 약간 변형한 것으로 다음과 같습니다
+강박 루프에 대한 저의 정의는 [아담 크로우가](https://www.slideshare.net/adamcrowe/compulsion-loops#btnNext) 제시한 정의를 약간 변형한 것으로 다음과 같습니다
 
 > *강박 루프(Compulsion Loop): 신경화학적 보상(쾌감 및/또는 통증 완화)을 얻기 위해 반복되는 습관적으로 설계된 일련의 활동입니다.*
 
