@@ -6,7 +6,7 @@ categories:
   - 기획
   
 tags:
-  - [게임, 기획, 심리학]
+  - [게임, 기획, 심리학, 도파민, 중독]
 
 toc: true
 toc_sticky: true
