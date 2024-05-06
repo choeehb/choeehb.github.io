@@ -1,0 +1,4 @@
+User-agent: *
+
+Allow: /
+Sitemap: http://choeehb.github.io/sitemap.xml
