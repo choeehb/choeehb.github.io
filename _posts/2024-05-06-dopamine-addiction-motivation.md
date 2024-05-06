@@ -14,8 +14,6 @@ date: 2024-05-06
 last_modified_at: 2024-05-06
 ---
 
-> 이 글은 [https://www.healthline.com/health/dopamine-addiction](https://www.healthline.com/health/dopamine-addiction)의 글을 번역한 내용입니다.
-
 ![image](https://github.com/choeehb/choeehb.github.io/assets/17942921/2373ba7a-5028-4abe-8990-b06aee00719a)
 
 도파민은 중독과 연관된 '쾌락 화학물질'이라는 말을 들어본 적이 있을 것입니다.
@@ -27,6 +25,10 @@ last_modified_at: 2024-05-06
 
 
 하지만 여러분이 들어본 것 중 일부는 사실이라기보다는 미신일 수 있습니다.
+
+
+
+> 이 글은 [https://www.healthline.com/health/dopamine-addiction](https://www.healthline.com/health/dopamine-addiction)의 글을 번역한 내용입니다.
 
 
 

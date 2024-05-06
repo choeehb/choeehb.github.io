@@ -18,11 +18,13 @@ last_modified_at: 2024-05-06
 
 ## vs 엔돌핀
 
-> 이 문단은 [https://www.healthline.com/health/endorphins](https://www.healthline.com/health/endorphins)의 글을 번역한 내용입니다.
-
 
 
 엔도르핀은 통증을 완화하고 즐거움을 증진하기 위해 뇌에서 분비되는 신경전달물질입니다.
+
+
+
+이 문단은 [https://www.healthline.com/health/endorphins](https://www.healthline.com/health/endorphins)의 글을 번역한 내용입니다.
 
 
 

@@ -14,8 +14,6 @@ date: 2024-05-06
 last_modified_at: 2024-05-06
 ---
 
-> 이 글은 [https://www.healthline.com/health-news/what-is-dopamine-fasting](https://www.healthline.com/health-news/what-is-dopamine-fasting)의 글을 번역한 내용입니다.
-
 ![image](https://github.com/choeehb/choeehb.github.io/assets/17942921/6ee1d3fc-036e-45cb-8adf-f4655e84ecd2)
 
 - 새로운 종류의 단식이 있지만, 이는 식이요법과 관련이 없습니다.
@@ -24,7 +22,11 @@ last_modified_at: 2024-05-06
 
 - 하지만 전문가들은 도파민이 정확히 그런 식으로 작용하지 않는다고 말합니다.
 
-  
+
+
+> 이 글은 [https://www.healthline.com/health-news/what-is-dopamine-fasting](https://www.healthline.com/health-news/what-is-dopamine-fasting)의 글을 번역한 내용입니다.
+
+
 
 웰빙이라는 이름의 최신 단식은 단순히 좋아하는 음식을 포기하라는 것이 아닙니다. 대신 가장 즐거운 활동을 모두 자제하는 것이 목표입니다.
 

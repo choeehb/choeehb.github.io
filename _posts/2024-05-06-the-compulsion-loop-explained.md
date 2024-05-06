@@ -17,10 +17,6 @@ last_modified_at: 2024-05-06
 
 ![skinnerbox](/assets/img/post/skinnerbox.webp)
 
-> 이 글은 gameanalytics.com의 글을 번역한 내용입니다. [원문 링크](https://gameanalytics.com/blog/the-compulsion-loop-explained/)
-
-
-
 
 
 비디오 게임에 적용되는 **강박 루프** 개념은 2001년 초 번지의 연구원이었던 [존 홉슨](https://www.gamedeveloper.com/design/behavioral-game-design)에 의해 소개된 이후, 비디오 게임에 강박 루프 메커니즘이 상당히 광범위하게 적용되었습니다. 강박 루프 개념은 소셜 게임, 강박 루프 개념은 2010~2012년에 소셜 게임, 특히 Zynga와 같은 회사에서 강박 루프 원리를 적용하면서 다시 인기를 얻었지만, 향후 모바일 게임에서 특히 르네상스를 맞이할 수 있는 기회의 영역이라고 생각합니다.
@@ -28,6 +24,10 @@ last_modified_at: 2024-05-06
 
 
 지금까지 제가 알기로는 강박 루프 개념에 대해 간결하고 이해하기 쉽게 설명한 자료는 없었습니다. 따라서 이 글에서는 강박루프의 개념을 자세히 설명하고, 제 나름의 해석을 통해 개념을 조금 더 확장한 다음, 이 개념을 활용한 미래의 잠재적 기회에 대해 설명하고자 합니다.
+
+
+
+>이 글은 gameanalytics.com의 글을 번역한 내용입니다. [원문 링크](https://gameanalytics.com/blog/the-compulsion-loop-explained/)
 
 
 
